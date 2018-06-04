@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    height: 100%;
+    
+    font-family: 'Poppins', sans-serif;
+    
+    font-size: 22px;
+}
+button{
+    margin: 6px auto;
+    padding: 6px;
+    border-radius: 3px;
+    border: 1px solid black;
+    background: #ffffff;
+    font-size: 19px;
+}
+div{
+    width: 50%;
+    margin: 10px;
+}
+button:active{
+    color: #ffffff;
+    background-color: #000000;
+}
+canvas{
+    border: 1px solid black;
+}
