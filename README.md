@@ -1,7 +1,7 @@
 # Maze-runner
 
 ## What's new
-- Game keeps getting tougher
+- Increasing difficulty
 
 ### Created by
 - Ragland Asir
